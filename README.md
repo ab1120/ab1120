@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhinav
-- 🌱 I’m currently learning Python and C
+- 🌱 I’m currently learning Python and C++
 - 📫 How to reach me, LinkedIn: https://www.linkedin.com/in/abhinav-gupta-603867189/
 
 <!---
